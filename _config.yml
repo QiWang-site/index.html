@@ -12,9 +12,9 @@ title                    : "Qi Wang (王琪) / Home Page"
 title_separator          : "-"
 name                     : &name "Qi Wang"
 description              : &description "personal description"
-url                      : https://lalajiayou.github.io/WangQi_THU.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qiwang-site.github.io/index.html/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lalajiayou/WangQi_THU.github.io"
+repository               : "qiwang-site/index.html"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "wq.jpg"
   name             : "Qi Wang"
   pronouns         : # "He/his" # example: "she/her"  
-  bio              : "Postdoc at The Hong Kong Polytechnic University; Obtained PhD at Tsinghua University"
+  bio              : "He obtained PhD at Tsinghua University, and is a Postdoc at The Hong Kong Polytechnic University."
   location         : "Hong Kong, China"
   employer         : # "Red Brick University"
   uri              : # URL
