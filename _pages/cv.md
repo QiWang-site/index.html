@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-My CV is [here](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
+My CV is [here](https://github.com/QiWang-site/index.html/tree/master/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
 
 <!-- Combined Electric and Heat System Testbeds
 ======
