@@ -32,6 +32,8 @@ Selected Publications
 
 Selected Awards
 ======
+2024/07: Honored to receive the [_**IEEE PCCC Student Research Showcase Best Oral Presentation Award**_](https://mp.weixin.qq.com/s/oxHfGfIXNffdm4HJXHVB6w?poc_token=HPFHp2ajGYpw-hqQCzdXEXkgd9K-8f-tKsRJxWcf).
+
 2024/07: Honored to receive the _**Postdoc Matching Fund Scheme**_ at the Hong Kong Polytechnic University.
 
 2024/07: Honored to receive the [_**Winners of lEEE Region 10 SAC Student Research Paper contest**_](https://sac.ieeer10.org/srp-contest/).
