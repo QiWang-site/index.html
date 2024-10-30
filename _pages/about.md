@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoc at the Department of Applied Mathematics, _**The Hong Kong Polytechnic University (PolyU)**_, working with Prof. [Defeng Sun, (SIAM Fellow)](https://www.polyu.edu.hk/ama/people/academic-staff/prof-sun-defeng/). I received my PhD degree from the Department of Electrical Engineering at _**Tsinghua University**_ in 2024, advised by Prof. [Wenchuan Wu (IEEE Fellow)](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm).
+I am currently a Postdoc at Department of Applied Mathematics, _**The Hong Kong Polytechnic University (PolyU)**_, working with Prof. [Defeng Sun, (SIAM Fellow)](https://www.polyu.edu.hk/ama/people/academic-staff/prof-sun-defeng/). I received my PhD degree from the Department of Electrical Engineering at _**Tsinghua University**_ in 2024, advised by Prof. [Wenchuan Wu (IEEE Fellow)](https://www.eea.tsinghua.edu.cn/en/faculties/wuwench.htm).
 
-My research is primarily focused on _**efficient distributed optimization algorithms**_ and _**their applications in coordinated optimization for hierarchical electrical power grids with integration of large-scale renewable generation**_. In this regard, I have conducted multiple studies to address the large-scale, non-convex, mixed-integer, spatio-temporal coupling optimization problems considering imperfect communication. These achievements also led to my nomination as a finalist (Top 1%) in the [Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
+My research is primarily focused on _**efficient distributed optimization algorithms**_ and _**their applications in coordinated optimization for hierarchical electrical power grids with integration of large-scale renewable generation**_. In this regard, I have conducted multiple studies to address the large-scale, non-convex, mixed-integer, spatio-temporal coupling optimization problems considering imperfect communication. These achievements also led to some awards, such as being nominated as a finalist (Top 1%) in the [Ph.D. Dissertation Challenge of IEEE I&CPS Asia 2023](https://mp.weixin.qq.com/s/mvwTmfKwyclKz9_x-txZdg).
 
-Download my [CV](https://qiwang-site.github.io/index.html/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
+Download my [CV](https://lalajiayou.github.io/WangQi_THU.github.io/files/CV_Qi_Wang_Tsinghua-20240712-v1.pdf).
 
 **Email**: wqthu[at]foxmail.com
 
@@ -32,6 +32,8 @@ Selected Publications
 
 Selected Awards
 ======
+2024/10: Selected as a [_**“Future Digileader” of Digital Futures**_](https://www.digitalfutures.kth.se/news/future-digileaders-24/), a cross-disciplinary research centre jointly established by _**KTH Royal Institute of Technology**_, RISE Research Institutes of Sweden and Stockholm University.
+
 2024/07: Honored to receive the [_**IEEE PCCC Student Research Showcase Best Oral Presentation Award**_](https://mp.weixin.qq.com/s/oxHfGfIXNffdm4HJXHVB6w?poc_token=HPFHp2ajGYpw-hqQCzdXEXkgd9K-8f-tKsRJxWcf).
 
 2024/07: Honored to receive the _**Postdoc Matching Fund Scheme**_ at the Hong Kong Polytechnic University.
